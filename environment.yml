@@ -5,4 +5,4 @@ channels:
 dependencies:
   - python=3.9
   - geopandas
-  - qgis=3.28.2
+  - qgis
