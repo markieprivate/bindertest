@@ -1,4 +1,4 @@
 libusb-1.0.0
 libgl1-mesa-glx
 libglu1
-qgis python-qgis-common qgis-plugin-grass-common
+qgis python3-qgis-common qgis-plugin-grass-common
