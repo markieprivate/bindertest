@@ -1,5 +1,4 @@
 libusb-1.0.0
 libgl1-mesa-glx
 libglu1
-deb http://qgis.org/debian-ltr buster main
 qgis python3-qgis qgis-plugin-grass
